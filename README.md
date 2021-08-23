@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working
+  - [rainbow_deer](https://github.com/guo-jianqiang/rainbow_deer)
+  - [react-antd-admin](https://github.com/guo-jianqiang/react-antd-admin)
+- 🌱 I’m currently learning
+  - [lerna](https://www.lernajs.cn/)
+  - [electron](https://www.electronjs.org/docs)
+  - [react](https://react.docschina.org/)
+  - [typescript](https://www.typescriptlang.org/docs/)
 
 <!--
 **guo-jianqiang/guo-jianqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
