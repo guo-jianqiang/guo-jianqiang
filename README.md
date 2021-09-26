@@ -11,6 +11,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=guo-jianqiang&show_icons=true&show_owner=true&count_private=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guo-jianqiang&layout=compact)
+
 ![](https://activity-graph.herokuapp.com/graph?username=guo-jianqiang&theme=github)
 
 <!--
