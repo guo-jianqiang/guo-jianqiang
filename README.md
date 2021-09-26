@@ -9,14 +9,9 @@
   - [typescript](https://www.typescriptlang.org/docs/)
 ## My Github Status 🦸
 
-<div style="display: flex;">
-  <div style="width: 500px">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guo-jianqiang&layout=compact)
-  </div>
-  <div style="flex: 1">
-    ![](https://github-readme-stats.vercel.app/api?username=guo-jianqiang&show_icons=true&show_owner=true&count_private=true)
-  </div>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=guo-jianqiang&show_icons=true&show_owner=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guo-jianqiang&layout=compact)
 
 ![](https://activity-graph.herokuapp.com/graph?username=guo-jianqiang&theme=github)
 
