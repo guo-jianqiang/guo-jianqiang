@@ -16,9 +16,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 ### My Github Status 🦸
-
-![](https://github-readme-stats.vercel.app/api?username=guo-jianqiang&show_icons=true&show_owner=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guo-jianqiang&layout=compact)
+<div style="display: flex; align-items: flex-start">
+    <img style="margin-right: 16px;" src="https://github-readme-stats.vercel.app/api?username=guo-jianqiang&show_icons=true&show_owner=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guo-jianqiang&layout=compact" />
+</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=guo-jianqiang.visitor-badge)
